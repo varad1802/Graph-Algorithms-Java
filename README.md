@@ -1,12 +1,17 @@
 # Graph-Algorithms-Java
-Implementation of graph algorithms for directed and undirected graphs. This project was a part of Data structures and algorithms coursework under the guidance of Dr. Dewan Ahmed
+Implementation of graph algorithms for directed and undirected graphs. This project was a part of Data structures and algorithms coursework under the guidance of Dr. Dewan Ahmed.<br /><br />
+The project includes following algorithm implementations:
+* ### Single Source Shortest Path: **Dijkstra's Algorithm**
+* ### Minimum Spanning Tree: **Prim's Algorithm**
+* ### Finding Strongly Connected Components: **Kosaraju's Algorithm**
 
 ## Prerequisites:
 * Make sure you have Java Installed.
 * Make sure you have Maven installed.
 
 ## Graph Format:
-The graph given as input will be of the following format:
+The graph given as input will be of the following format: <br />
+![alt text](https://user-images.githubusercontent.com/34937940/152195825-f74cec4c-0dee-4eba-b43e-c5dbfb60d005.png)
 
 
 Here, the first two numbers represent the number of vertices and edges. The letter U stands for undirected graph (D for directed). 
